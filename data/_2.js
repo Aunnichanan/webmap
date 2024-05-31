@@ -1,0 +1,1 @@
+var json__2 = {"type":"FeatureCollection","name":"_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"E":623090.0,"N":1928988.0,"Publication of proceeding":"รายงานการประชุมสภาองค์การบริหารส่วนตำบล.pdf"},"geometry":{"type":"Point","coordinates":[100.159086392953725,17.443467901566105]}}]}
